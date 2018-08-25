@@ -6,6 +6,7 @@ void setup() {
   //2. set the size of your window
   //  if you are using Processing 3, you cannot use variables
   //  because the developers don't know how programming is supposed to work.
+JFrame f = new JFrame();
 
   //3. initialize your array with the built in width variable
   
@@ -29,7 +30,7 @@ void draw() {
 
 
   //9. call the stepSort method
-
+stepSo
   //10. extract the code that randomizes the array into a method.
 
   //11. call the method you made in step 10 when the mouse is pressed
